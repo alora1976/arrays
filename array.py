@@ -84,6 +84,6 @@ else:
     print("Item not Found")
 print("\n")#creates a space between lines of code so this is easier to follow
 
-boolean_list = [6== number for number in my_list]
+boolean_list = [6== number for number in my_list]#searches an array and returns true or false statement if number is found.
 print(boolean_list)
 print("\n")#creates a space between lines of code so this is easier to follow
